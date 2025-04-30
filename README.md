@@ -36,8 +36,8 @@ Soy ingeniero en mecatrónica con experiencia en desarrollo de software, automat
 
 ## 📫 Cómo contactarme
 
-- LinkedIn: [linkedin.com/in/tuusuario](https://linkedin.com/in/daniel-felipe-fajardo-vargas-66130b166/)
-- Correo: [tu.email@ejemplo.com](mailto:dfajardovargas@gmail.com)
+- LinkedIn: [mi linkedin](https://linkedin.com/in/daniel-felipe-fajardo-vargas-66130b166/)
+- Correo: [mi email](mailto:dfajardovargas@gmail.com)
 - Portafolio web: en proceso.
 
 ---
