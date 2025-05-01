@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy Daniel Felipe
 
-🎯 **Estudiante Ciencia de Datos Alura | Ingeniera Mecatrónica | Desarrolladora Backend con Spring Boot**
+🎯 **Estudiante Ciencia de Datos Alura | Ingeniero en Mecatrónica | Desarrollador Backend con Spring Boot**
 
 Bienvenid@ a mi repositorio principal. Aquí encontrarás un resumen de quién soy, qué hago y cómo puedes contactarme o colaborar conmigo.
 
